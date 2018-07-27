@@ -1,0 +1,17 @@
+.main
+{
+width:100%;
+background-color:GREY;	
+display: flex;
+}
+.right
+{
+	width:30%;
+border:3px solid #2df; 
+}
+.left
+{
+	width:70%;
+	border: 3px solid #2df;
+	font-family:helvetica narrow;
+}
